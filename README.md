@@ -1,5 +1,0 @@
-# RepositoryName
-
-DO NOT READ ME
-
-DO NOT TOUCH ME
